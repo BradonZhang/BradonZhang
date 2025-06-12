@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I changed my account name to @EmilyBZhang. Please visit there for my contributions!
+I changed my account name to [@EmilyBZhang](https://github.com/EmilyBZhang). Please visit there for my contributions!
 
 <!--
 **BradonZhang/BradonZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
